@@ -1,6 +1,11 @@
+package sort;
+
 import utils.MiscUtil;
 
 /**
+ * 插入排序
+ * - 时间复杂度： O(n^2)
+ *
  * @author arloz
  * @version $Id: InsertionSort.java, v 0.1 2018/09/23 下午5:07 arloz Exp $$
  */
